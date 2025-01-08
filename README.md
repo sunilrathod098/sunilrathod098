@@ -22,7 +22,7 @@
 
 - 🌐 My LinkedIn: [LinkedIn.](https://www.linkedin.com/in/danavath-sunil-rathod-683853202/)
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Python Libraries & ML.**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Flask, Djang, Python Libraries & ML.**
 
 - 📫 How to reach me: **sunilrathod098@gmail.com**.
 
@@ -35,7 +35,7 @@
 <div style="font-family: Arial, sans-serif; font-size: 16px; max-width: 600px; margin: 20px auto; border: 1px solid #ddd; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
   <h2 style="text-align: center; font-size: 24px; margin-bottom: 20px;">Skill Set</h2>
   <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Backend:</strong></h3>
-  <p style="margin: 5px 0;">NodeJS, ExpressJS, JavaScript, & MongoDB</p>
+  <p style="margin: 5px 0;">NodeJS, ExpressJS, JavaScript, Flask, Django, MySQL & MongoDB</p>
   
   <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Frontend:</strong></h3>
   <p style="margin: 5px 0;">ReactJS, TailwindCSS, Redux, & Recoil</p>
@@ -44,7 +44,7 @@
   <p style="margin: 5px 0;">MongoDB, MySQL, SQLite, & SQL</p>
   
   <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Tools:</strong></h3>
-  <p style="margin: 5px 0;">Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, Docker, & Google Developer Playground</p>
+  <p style="margin: 5px 0;">Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, Docker, Google Collab, Jupiter Notebook, & Google Developer Playground</p>
   
   <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Languages:</strong></h3>
   <p style="margin: 5px 0;">JavaScript, Python, HTML, CSS, & Machine Learning Algorithms</p>
