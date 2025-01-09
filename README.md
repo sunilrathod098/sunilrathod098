@@ -5,8 +5,6 @@
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20Software%20Developer%20and%20Backend%20Developer&reversal=false&section=header&fontSize=30&animation=blink">
-</p>
-<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Working%20as%20a%20Freelancing%20Web%20Application%20Developer&reversal=false&section=footer&fontSize=25&animation=blink">
 </p>
 
