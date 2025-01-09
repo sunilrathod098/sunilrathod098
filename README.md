@@ -6,6 +6,10 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20Software%20Developer%20and%20Backend%20Developer&reversal=false&section=header&fontSize=30&animation=blink">
 </p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Working%20as%20a%20Freelancing%20Web%20Application%20Developer&reversal=false&section=header&fontSize=30&animation=blink">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilrathod098&label=Profile%20views&color=0e75b6&style=flat" alt="sunilrathod098" /> </p>
 
 <img align="right" alt="animated coding img" width="300" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
