@@ -15,7 +15,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **MERN Stack**, **MEAN Stack** and **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Angular**, **TypeScript** and **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available in GitHub [Projects.](https://github.com/sunilrathod098)
 
