@@ -118,12 +118,12 @@
 
 <p align="center">
   <a href="https://github.com/sunilrathod098">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098&theme=radical&hide_border=true&stroke=0000&background=0D1117&v=1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak Stats">
   </a>
 </p>
 
 
-
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
