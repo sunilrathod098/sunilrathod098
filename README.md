@@ -70,15 +70,6 @@
 <hr/>
 
 
-## 📈 My GitHub Daily Streaks
-
-<p align="center">
-  <a href="https://github.com/sunilrathod098">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098&theme=radical&hide_border=true&stroke=0000&background=0000">
-  </a>
-</p>
-
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align=""> 
   <p align="">
@@ -121,6 +112,16 @@
 
 <br>
 <br>
+
+
+## 📈 My GitHub Daily Streaks
+
+<p align="center">
+  <a href="https://github.com/sunilrathod098">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098">
+  </a>
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
