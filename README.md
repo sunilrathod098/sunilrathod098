@@ -114,13 +114,14 @@
 <br>
 
 
-## 📈 My GitHub Daily Streaks
+## 🔥 GitHub Streaks and Contributions
 
 <p align="center">
   <a href="https://github.com/sunilrathod098">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrathod098&theme=radical&hide_border=true&stroke=0000&background=0000">
   </a>
 </p>
+
 
 
 
