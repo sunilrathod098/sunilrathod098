@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Flask, Djang, Python Libraries & ML.**
 
-- 📫 How to reach me: **sunilrathod098@gmail.com**.
+- 📫 How to reach me: **sunilrajputhrathod@gmail.com**.
 
 - 📞 Contact Number: **+91 9022080237**.
 
